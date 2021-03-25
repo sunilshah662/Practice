@@ -1,2 +1,3 @@
 # Practice
-This is my first repo
+This is my first repository,
+Tis is my first commit.
